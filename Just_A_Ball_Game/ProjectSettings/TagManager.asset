@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Ground
   - Booster
+  - NextLevel
+  - JumpHelp
+  - BoosterHelp
+  - NextLevelHelp
+  - Button
+  - ButtonPressed
+  - Enemy
   layers:
   - Default
   - TransparentFX
